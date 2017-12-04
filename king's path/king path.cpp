@@ -3,7 +3,7 @@
 // Author      : Mai
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : king's path in C++, Ansi-style
 //============================================================================
 
 #include<bits/stdc++.h>
