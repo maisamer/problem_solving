@@ -1,3 +1,5 @@
+//uri : https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1047
+//reference : https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
 #include<bits/stdc++.h>
 #define clr(v, d) memset(v, d, sizeof(v))
 using namespace std;
