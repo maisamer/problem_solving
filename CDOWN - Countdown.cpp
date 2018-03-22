@@ -53,13 +53,6 @@ int main()
                 break;
             cout<<v[i].second<<" "<<v[i].first<<endl;
         }
-        /*for(map<string,vector<string> >::iterator it=out.begin();it!=out.end();it++){
-            cout<<it->first<<" ";
-            for(int i=0;i<it->second.size();i++){
-                cout<<it->second[i]<<" ";
-            }
-            cout<<endl;
-        }*/
     }
     return 0;
 }
