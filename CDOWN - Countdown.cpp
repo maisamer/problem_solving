@@ -1,3 +1,4 @@
+//uri : http://www.spoj.com/problems/CDOWN/
 #include <bits/stdc++.h>
 using namespace std;
 int n,d,cn;
