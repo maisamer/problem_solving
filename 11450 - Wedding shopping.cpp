@@ -1,4 +1,4 @@
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2445
+// uri : https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2445
 #include<bits/stdc++.h>
 #define clr(v, d) memset(v, d, sizeof(v))
 using namespace std;
