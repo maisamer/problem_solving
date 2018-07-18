@@ -1,5 +1,5 @@
-#include <bits/stdc++.h>
 // uri : https://codeforces.com/contest/355/problem/B
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef pair<int,int> pi;
